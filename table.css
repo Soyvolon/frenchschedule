@@ -1,0 +1,29 @@
+table {
+  padding: 5px;
+  width: 100%;
+  border: 10px outset green;
+}
+
+#firstcol {
+  width: 10%;
+}
+
+#daycol {
+  width: 13%;
+}
+
+#topheader {
+  color: white;
+  background-color: green;
+}
+#topheader th {
+  border: 3px inset grey;
+}
+.data th {
+  border: 3px inset green;
+  background-color: #CECECE;
+}
+.data td {
+  border: 1px solid black;
+  text-align: center;
+}
